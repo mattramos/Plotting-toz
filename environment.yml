@@ -1,0 +1,10 @@
+name: plotting-toz-env
+channels:
+  - default
+  - conda-forge
+  - plotly
+dependencies:
+  - plotly>4.0,<=4.11
+  - voila==0.2
+  - numpy==1.19
+  - ipywidgets==7.5
