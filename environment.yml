@@ -8,3 +8,6 @@ dependencies:
   - voila
   - numpy==1.19
   - ipywidgets==7.5
+  - pip
+  - pip:
+    traitlets>5.0
