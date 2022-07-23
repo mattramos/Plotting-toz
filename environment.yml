@@ -10,4 +10,4 @@ dependencies:
   - ipywidgets==7.5
   - pip
   - pip:
-    traitlets>5.0
+    - traitlets>5.0
