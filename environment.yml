@@ -1,6 +1,7 @@
 name: plotting-toz-env
 channels:
   - default
+  - anaconda
   - conda-forge
   - plotly
 dependencies:
@@ -10,4 +11,4 @@ dependencies:
   - plotly>4.0,<=4.11
   - voila
   - numpy==1.19
-  - ipywidgets==7.5
+  - ipywidgets
